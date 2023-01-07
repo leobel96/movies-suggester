@@ -6,7 +6,7 @@ The recommendations are obtained from [TMDB](https://www.themoviedb.org/) using 
 
 The Web App is fully responsive and looks like this for desktop:
 
-![Screenshot Desktop](public/resources/Screenshot%202023-01-07%20at%2017.35.43.png)
+![Screenshot Desktop](public/resources/screenshot.png)
 
 The Movies/TV Series are ordered based on an descending score coming from how often TVDB suggested them when generating recommendations for your watched media (the top ones will be the most suggested ones).
 
